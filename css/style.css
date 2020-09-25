@@ -1,0 +1,74 @@
+body {
+	margin:0;}
+
+.main-frame {
+	width:100%;
+	height:100%;
+	background-color:green;}
+
+.W1 {
+	width:20%;
+	height:28%;
+	background-color:white;}
+
+.B1 {
+	width:20%;
+	height:6%;
+	background-color:black;}
+
+.W2 {
+	width:20%;
+	height:40%;
+	background-color:white;}
+
+.B2 {
+	width:100%;
+	height:4%;
+	background-color:black;}
+.BU {
+	width:20%;
+	height:22%;
+	background-color:blue;}
+.B3 {
+	width:4%;
+	height:100%;
+	background-color:black;
+	position:absolute;
+	top:0%;
+	left:20%;}
+.R {
+	width:76%;
+	height:74%;
+	background-color:red;
+	position:absolute;
+	top:0%;
+	left:24%;}
+.W3 {
+	width:76%;
+	height:22%;
+	background-color:white;
+	position:absolute;
+	top:78%;
+	left:24%;}
+.B4 {
+	width:5%;
+	height:22%;
+	background-color:black;
+	position:absolute;
+	top:78%;
+	left:88%;}
+.B5 {
+	width:10%;
+	height:5%;
+	background-color:black;
+	position:absolute;
+	top:87%;
+	left:90%;}
+.Y {
+	width:7%;
+	height:8%;
+	background-color:yellow;
+	position:absolute;
+	top:92%;
+	left:93%;
+}
